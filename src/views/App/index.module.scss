@@ -1,0 +1,19 @@
+.article {
+  min-width: 600px;
+  background: white;
+  border-radius: 20px;
+  padding: 20px 55px;
+
+  &Title {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  &Text {
+    text-align: center;
+  }
+}
+
+.wrapper {
+  width: 100%;
+}
